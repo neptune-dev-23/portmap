@@ -42,7 +42,7 @@ Output: `src-tauri/target/release/bundle/macos/PortMap.app`
 
 Drag into `/Applications`. On first launch, right-click → Open to bypass Gatekeeper (app is unsigned).
 
-> **Note:** DMG creation requires `create-dmg` (`brew install create-dmg`) and Automation permission granted to your terminal in **System Settings → Privacy & Security → Automation → Finder**.
+> **Note:** DMG creation requires Automation permission granted to your terminal in **System Settings → Privacy & Security → Automation → Finder**.
 
 ## Attribution
 
