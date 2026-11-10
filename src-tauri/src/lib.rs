@@ -1,5 +1,7 @@
 mod commands;
 mod models;
+mod process_info;
+mod resource_history;
 
 use commands::{ports::list_ports, process::kill_process};
 
